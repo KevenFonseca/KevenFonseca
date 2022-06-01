@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on games projects using python
 - 📫 How to reach me, my email mkfonseca97@gmail.com
-- If you need my help just send a email, y will love work whith somebody
+- If you need my help just send a email, y will love to work with someone that love python like me
 - Thanks
 
 <!---
